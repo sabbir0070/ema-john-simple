@@ -50,7 +50,7 @@ const Shop = () => {
             }
                         
             </div> 
-            <div className="car-container">
+            <div className="cart-container">
                <Cart cart={cart} ></Cart>
             </div>
         </div>
